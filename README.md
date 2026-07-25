@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#usage">Usage</a> •
   <a href="#customize">Customize</a> •
-  <a href="#license">License</a> 
+  <a href="#license">License</a>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 <details>
   <summary>Health</summary>
-  
+
   - [Dr. Cardio DF](https://www.youtube.com/@CardioDF)
   - [Dr. Gustavo B.](https://www.youtube.com/@drgustavob)
   - [Planeta Intestina](https://www.youtube.com/@planeta_intestino)
@@ -41,7 +41,7 @@
 
 <details>
   <summary>Ai Chats</summary>
-  
+
   - [Zai](https://chat.z.ai/)
   - [Kimi](https://www.kimi.com/)
   - [Meta](https://meta.ai/)
@@ -58,7 +58,9 @@
 
 <details>
   <summary>Ai Rankings</summary>
-  
+
+  - [Vals](https://www.vals.ai/home)
+  - [LM Stats](https://llm-stats.com/)
   - [Arena AI](https://arena.ai/leaderboard/code/webdev)
   - [LiveBench](https://livebench.ai)
   - [Design Arena](https://www.designarena.ai/leaderboard)
@@ -69,7 +71,7 @@
 
 <details>
   <summary>Search Engines</summary>
-  
+
   - [DuckDuckGo](https://duckduckgo.com/)
   - [Google](https://www.google.com/)
   - [Bing](https://www.bing.com/)
