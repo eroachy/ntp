@@ -51,6 +51,7 @@
   - [Xiaomi](https://aistudio.xiaomimimo.com)
   - [Alibaba](https://chat.qwen.ai/)
   - [ChatGPT](https://chatgpt.com/)
+  - [DeepSeek](https://chat.deepseek.com/)
   - [ByteDance](https://www.dola.com/chat)
 </details>
 
