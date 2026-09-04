@@ -1,35 +1,32 @@
 <h1 align="center">
-  🇺🇦 <br>
-  Browser Homepage
+   <br>
+  homepage
 </h1>
 
-<h4 align="center">Useful URLs for quick access (use mouse middle button for opening links on new tabs)</h4>
-
-<p align="center">
-  <a href="#usage">Usage</a> •
-  <a href="#customize">Customize</a> •
-  <a href="#license">License</a>
-</p>
-
-<p align="center">
-  <a href="https://libredirect.github.io/">LibRedirect</a>
-</p>
-
+<h4 align="center">Useful URLs for quick access
+  
 ---
 
 <details>
-  <summary>Personal Stack</summary>
+  <summary>Personal</summary>
 
-  - [Cloudflare](https://dash.cloudflare.com/)
-  - [Cloudinary](https://console.cloudinary.com/app)
-  - [Google Search Console](https://search.google.com/search-console)
-  - [Bing Webmaster](https://www.bing.com/webmasters)
-  - [Yandex Webmaster](https://webmaster.yandex.com)
-</details>
+- [WKYT crime](https://www.wkyt.com/news/crime/)
 
----
+- [People Crime](https://people.com/crime/)
+
+- [WKYT news](https://www.wkyt.com/news/)
+
+- [FBI Press Releases](https://www.fbi.gov/news/press-releases)
+
+- [CC Arrests](https://recentlybooked.com/ky/clay?p=6)
+
+- [Lex Arrests](https://kentucky.arrests.org/index.php?county=315)
+
+- [People Real People](https://people.com/real-people)
+
 
 <details>
+  
   <summary>Health</summary>
 
   - [Dr. Cardio DF](https://www.youtube.com/@CardioDF)
@@ -40,32 +37,23 @@
 ---
 
 <details>
-  <summary>Ai Chats</summary>
+  
+  <summary>Shopping</summary>
 
-  - [Zai](https://chat.z.ai/)
-  - [Kimi](https://www.kimi.com/)
-  - [Meta](https://meta.ai/)
-  - [Grok](https://grok.com/)
-  - [Claude](https://claude.ai)
-  - [Gemini](https://gemini.google.com/app)
-  - [Xiaomi](https://aistudio.xiaomimimo.com)
-  - [Alibaba](https://chat.qwen.ai/)
-  - [ChatGPT](https://chatgpt.com/)
-  - [DeepSeek](https://chat.deepseek.com/)
-  - [ByteDance](https://www.dola.com/chat)
 </details>
 
 ---
+  <summary>App Websites</summary>
 
-<details>
-  <summary>Ai Rankings</summary>
 
   - [Vals](https://www.vals.ai/home)
   - [LM Stats](https://llm-stats.com/)
   - [Arena AI](https://arena.ai/leaderboard/code/webdev)
   - [LiveBench](https://livebench.ai)
   - [Design Arena](https://www.designarena.ai/leaderboard)
-  - [Artifical Analysis](https://artificialanalysis.ai/agents/coding-agents)
+  - [Artifical Analysis](https://art
+
+    
 </details>
 
 ---
