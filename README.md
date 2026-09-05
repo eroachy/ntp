@@ -25,7 +25,9 @@
 
 [Awesome Self-Hosted Notetakers Github](https://github.com/awesome-selfhosted/awesome-selfhosted#note-taking--editors)
 
-[GitLab](https://gitlab.com/)
+[NeutriNote](https://appml.github.io/neutrinote/)
+
+[Super Prod](https://github.com/super-productivity/super-productivity/blob/master/src/assets/community-plugins.json)
 
 [IzzyRepo](https://apt.izzysoft.de/fdroid/)
 
@@ -33,21 +35,9 @@
 
 [PlainTextProject](https://plaintextproject.online/links.html)
 
-[Markor article](https://github.com/gsantner/markor/blob/master/doc/2020-09-26-vimwiki-sync-plaintext-to-do-and-notes-todotxt-markdown.md#readme)
-
-[Markor README](https://github.com/gsantner/markor/blob/master/README.md#readme)
-
 [Mixplorer Manual](https://xdaforums.com/t/mixplorer-q-a-and-faq-user-manual.3308582/)
 
-[DailyYou Github](https://github.com/Demizo/Daily_You/releases/tag/v3.2.1)
-
-[SimpleNote Github](https://github.com/Automattic/simplenote-android/releases)
-
 [KeePassDX Github](https://github.com/Kunzisoft/KeePassDX/releases)
-
-
-[Article Telegram for Bookmarks](https://www.gozgeek.com/posts/2021/using-telegram-for-notes-bookmarks-and-more/)
-
 
 ---
 
@@ -56,5 +46,7 @@
 [Super Mario Bros YT Playlist](https://m.youtube.com/playlist?list=PLyUkLo8OvFU6pPVTZUHob6pP3FY-wUSlq)
 
 [UK Surplus](https://www.govdeals.com/en/uksurplus)
+
+[Alpaka Resale](https://marketplace.alpakagear.com/)
 
 ---
