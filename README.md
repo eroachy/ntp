@@ -2,21 +2,19 @@
 
 ## News Websites
 
-https://www.wkyt.com/news/crime/
+[WKYT crime](https://www.wkyt.com/news/crime/)
 
-https://people.com/crime/
+[People Crime](https://people.com/crime/)
 
-https://www.wkyt.com/news/
+[WKYT News](https://www.wkyt.com/news/)
 
-https://www.fbi.gov/news/press-releases
+[FBI Press Releases](https://www.fbi.gov/news/press-releases)
 
-https://recentlybooked.com/ky/clay?p=6
+[CC arrests](https://recentlybooked.com/ky/clay?p=6)
 
-https://kentucky.arrests.org/index.php?county=315
+[Lex Arrests](https://kentucky.arrests.org/index.php?county=315)
 
-https://www.fbi.gov/news/stories
-
-https://people.com/real-people
+[People Real People](https://people.com/real-people)
 
 
 ---
